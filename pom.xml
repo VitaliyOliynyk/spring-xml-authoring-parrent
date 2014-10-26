@@ -12,11 +12,4 @@
         <module>cc</module>
     </modules>
 
-<!--    <dependencies>
-        <dependency>
-            <groupId>eu.vitaliy</groupId>
-            <artifactId>cc</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>-->
 </project>

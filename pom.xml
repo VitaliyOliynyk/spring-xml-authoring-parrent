@@ -10,6 +10,7 @@
     <modules>
         <module>spring-xml-authoring</module>
         <module>cc</module>
+        <module>cc-spring</module>
     </modules>
 
 </project>

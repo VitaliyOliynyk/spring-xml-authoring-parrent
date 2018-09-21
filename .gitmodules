@@ -1,9 +1,9 @@
 [submodule "cc-spring"]
 	path = cc-spring
-	url = git@github.com:VitaliyOliynyk/cc-spring.git
+	url = https://github.com/VitaliyOliynyk/cc-spring.git
 [submodule "cc"]
 	path = cc
-	url = git@github.com:VitaliyOliynyk/cc.git
+	url = https://github.com/VitaliyOliynyk/cc.git
 [submodule "spring-xml-authoring"]
 	path = spring-xml-authoring
-	url = git@github.com:VitaliyOliynyk/spring-xml-authoring.git
+	url = https://github.com/VitaliyOliynyk/spring-xml-authoring.git
